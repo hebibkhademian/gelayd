@@ -1,6 +1,5 @@
-#* gelayd
-*
-*
+# gelayd
+
 # gelayder
 
 
